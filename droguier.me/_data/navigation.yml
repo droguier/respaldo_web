@@ -1,0 +1,15 @@
+# main links links
+main:
+  - title: "About Me"
+    url: /about-me/
+
+  - title: "Release"
+    url: /releases/
+
+  - title: "Gmail"
+    icon: fa fa-fw fa-envelope-square
+    url: https:\\www.gmail.com
+
+  - title: "Youtube"
+    icon: fa fa-fw fa-youtube-square
+    url: https:\\www.youtube.com
